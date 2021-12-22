@@ -1,0 +1,7 @@
+/home/mrlaw/CmakeProject/staticlibStudent/build/CMakeFiles/install/strip.dir
+/home/mrlaw/CmakeProject/staticlibStudent/build/CMakeFiles/install/local.dir
+/home/mrlaw/CmakeProject/staticlibStudent/build/CMakeFiles/install.dir
+/home/mrlaw/CmakeProject/staticlibStudent/build/CMakeFiles/list_install_components.dir
+/home/mrlaw/CmakeProject/staticlibStudent/build/CMakeFiles/rebuild_cache.dir
+/home/mrlaw/CmakeProject/staticlibStudent/build/CMakeFiles/edit_cache.dir
+/home/mrlaw/CmakeProject/staticlibStudent/build/CMakeFiles/testStudent.dir

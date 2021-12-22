@@ -1,0 +1,7 @@
+/home/mrlaw/CmakeProject/sharedlibStudent/build/CMakeFiles/install/strip.dir
+/home/mrlaw/CmakeProject/sharedlibStudent/build/CMakeFiles/install/local.dir
+/home/mrlaw/CmakeProject/sharedlibStudent/build/CMakeFiles/install.dir
+/home/mrlaw/CmakeProject/sharedlibStudent/build/CMakeFiles/list_install_components.dir
+/home/mrlaw/CmakeProject/sharedlibStudent/build/CMakeFiles/rebuild_cache.dir
+/home/mrlaw/CmakeProject/sharedlibStudent/build/CMakeFiles/edit_cache.dir
+/home/mrlaw/CmakeProject/sharedlibStudent/build/CMakeFiles/testStudent.dir

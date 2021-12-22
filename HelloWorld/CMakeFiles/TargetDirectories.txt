@@ -1,0 +1,3 @@
+/home/mrlaw/CmakeProject/HelloWorld/CMakeFiles/rebuild_cache.dir
+/home/mrlaw/CmakeProject/HelloWorld/CMakeFiles/edit_cache.dir
+/home/mrlaw/CmakeProject/HelloWorld/CMakeFiles/hello.dir
